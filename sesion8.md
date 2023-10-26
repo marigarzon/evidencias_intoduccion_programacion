@@ -35,6 +35,8 @@ Aplica los siguientes estilos usando seleccionadores descendientes:
 Color gris a los párrafos dentro de un <div>
 Centrar el contenido de la sección <section>
 
+
+**codigo html**
 ```html
 <!DOCTYPE html>
 <html>
@@ -63,7 +65,8 @@ Centrar el contenido de la sección <section>
 </html>
 
 ```
-
+**codigo css**
+agregarlo a una carpeta llamada ``style``
 ```css
 h1 {
     color: red;
